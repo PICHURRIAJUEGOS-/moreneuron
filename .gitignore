@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+**~
+**#
+
+#cocos2d
+proj.android/bin
+proj.android/obj
+proj.android/assets
+bin/
